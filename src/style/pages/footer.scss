@@ -1,0 +1,74 @@
+.footer_main_bg{
+  //background-color: $main_bg_second;
+  background: url(../../img/header-bee-line-1--1-.png) left bottom no-repeat $main_bg_second;
+  //width: 1920px;
+  //height: 516px;
+}
+
+
+.footer_down{
+  background-color: $h2_dark_font;
+}
+
+
+.join_us_footer{
+  display: inline-block;
+  color: $light_font;
+  //font-family: Montserrat;
+  font-size: 14px;
+  font-weight: 400;
+  /* Text style for "Join us:" */
+  letter-spacing: 0.35px;
+margin-top: 32px;
+}
+
+.cont{
+  color: #ffffff;
+  //font-family: Montserrat;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 28px;
+  /* Text style for "Call now:" */
+  letter-spacing: 0.35px;
+}
+
+.copyring{
+  color: $light_font;
+  //font-family: Montserrat;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 28px;
+  /* Text style for "Copyright" */
+  letter-spacing: 0.35px;
+  margin-top: 32px;
+  margin-bottom: 26px;
+}
+
+
+.bg_logo{
+  border: 2px solid #ffffff;
+  background-color: #ccd3dd;
+  text-align: center;
+  margin-top: 23px;
+}
+
+.img_logo_footer{
+  margin: 10px 10px;
+}
+
+.footer_block{
+margin-top: 23px;
+  border: 2px solid #eaedf2;
+  background-color: #14a85c;
+
+  .block_foter_text{
+    color: #ffffff;
+    //font-family: Montserrat;
+    font-size: 12px;
+    font-weight: 300;
+    line-height: 17.56px;
+    margin: 25px 30px 33px 29px;
+  }
+}
+
+

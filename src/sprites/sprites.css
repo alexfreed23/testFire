@@ -1,0 +1,102 @@
+/*
+Icon classes can be used entirely standalone. They are named after their original file names.
+
+Example usage in HTML:
+
+`display: block` sprite:
+<div class="icon-home"></div>
+
+To change `display` (e.g. `display: inline-block;`), we suggest using a common CSS class:
+
+// CSS
+.icon {
+  display: inline-block;
+}
+
+// HTML
+<i class="icon icon-home"></i>
+*/
+.icon-- {
+  background-image: url(sprites.png);
+  background-position: 0px 0px;
+  width: 30px;
+  height: 20px;
+}
+.icon-icon-phone-2 {
+  background-image: url(sprites.png);
+  background-position: 0px -2100px;
+  width: 36px;
+  height: 30px;
+}
+.icon-icon-phone {
+  background-image: url(sprites.png);
+  background-position: 0px -1044px;
+  width: 35px;
+  height: 27px;
+}
+.icon-icon1 {
+  background-image: url(sprites.png);
+  background-position: 0px -4760px;
+  width: 22px;
+  height: 34px;
+}
+.icon-icon2 {
+  background-image: url(sprites.png);
+  background-position: 0px -4226px;
+  width: 33px;
+  height: 34px;
+}
+.icon-icon3 {
+  background-image: url(sprites.png);
+  background-position: 0px -6904px;
+  width: 24px;
+  height: 40px;
+}
+.icon-icon4 {
+  background-image: url(sprites.png);
+  background-position: 0px -3161px;
+  width: 26px;
+  height: 32px;
+}
+.icon-icon5 {
+  background-image: url(sprites.png);
+  background-position: 0px -5294px;
+  width: 33px;
+  height: 35px;
+}
+.icon-icon6 {
+  background-image: url(sprites.png);
+  background-position: 0px -5829px;
+  width: 38px;
+  height: 37px;
+}
+.icon-livechat {
+  background-image: url(sprites.png);
+  background-position: 0px -3693px;
+  width: 39px;
+  height: 33px;
+}
+.icon-pen {
+  background-image: url(sprites.png);
+  background-position: 0px -520px;
+  width: 24px;
+  height: 24px;
+}
+.icon-scan {
+  background-image: url(sprites.png);
+  background-position: 0px -1571px;
+  width: 29px;
+  height: 29px;
+}
+.icon-shade-copy {
+  background-image: url(sprites.png);
+  background-position: 0px -6366px;
+  width: 26px;
+  height: 38px;
+}
+.icon-shade {
+  background-image: url(sprites.png);
+  background-position: 0px -2630px;
+  width: 21px;
+  height: 31px;
+}
